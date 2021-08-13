@@ -5,4 +5,5 @@
 <li>Python
 <li>JS
   
-
+<a href="https://discord.gg/NcYK2rZMjb">Discord Server</a>
+zabor#1001
