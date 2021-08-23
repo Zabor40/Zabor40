@@ -1,4 +1,5 @@
 ### hi i am zabor </a>
+![He/Him/His](https://img.shields.io/badge/-%F0%9F%A7%91%20He/Him/His-2a7ecc?)
 
 🤖Languages I work with:
 #### Languages
