@@ -9,12 +9,12 @@
 
 ![CSharp](https://img.shields.io/badge/-CSharp-0d0d0d?&logo=c-sharp&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d0d0d?&logo=JavaScript&logoColor=ddc508)
-
 <li>Python</li>
 <li>Learning Java</li>
 
 
-  
+ 
+ 
 <a href="https://discord.gg/NcYK2rZMjb">Discord Server</a>
 
 
