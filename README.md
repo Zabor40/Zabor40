@@ -2,7 +2,7 @@
 ![He/Him/His](https://img.shields.io/badge/-%F0%9F%A7%91%20He/Him/His-2a7ecc?)
 
 ![Discord](https://img.shields.io/badge/-DM%20me%20on%20discord!-0d0d0d?&logo=discord)
-zabor#1001
+<li>zabor#1001</li>
 
 🤖Languages I work with:
 #### Languages
