@@ -5,9 +5,7 @@
 #### Languages
 
 ![CSharp](https://img.shields.io/badge/-CSharp-0d0d0d?&logo=c-sharp&logoColor=blue)
-<Liv>Python
-  <Liv>JavaScript
-    <Liv>Learning Java
+
 
 
 
