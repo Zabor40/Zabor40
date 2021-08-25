@@ -7,12 +7,8 @@
 
 <li>zabor#1001</li>
 
-#### Languages
 
-![CSharp](https://img.shields.io/badge/-CSharp-0d0d0d?&logo=c-sharp&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d0d0d?&logo=JavaScript&logoColor=ddc508)
-![Java](https://img.shields.io/badge/-Java-0d0d0d?&logo=java&logoColor=cc3399)
-<li>Python</li>
+
 
 <img src="https://raw.githubusercontent.com/meon2325/meon2325/main/rgb.gif" width="100%">
  
