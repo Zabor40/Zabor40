@@ -7,6 +7,11 @@
 
 <li>zabor#1001</li>
 
+<li> Languages i work with:
+ <li> C#
+  <li> JavaScript
+   <li> Python
+    <li> Learning Java
 
 
 
