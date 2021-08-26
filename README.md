@@ -10,7 +10,7 @@ zabor#1001</li>
 <img src="https://raw.githubusercontent.com/meon2325/meon2325/main/rgb.gif" width="100%">
  Languages i work with:
  
- <li> C#
+ <li>  C#
   <li> JavaScript
    <li> Python
     <li> Learning Java
