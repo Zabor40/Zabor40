@@ -15,6 +15,10 @@ zabor#6876</li>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="5%">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="5%">
 </details>
+<details>
+ <summary>GitHub Statsh</summary>
+<img algin="left" alt="Zabor's GithubStats" src="https://github-readme-stats-ruddy-phi.vercel.app/api?username=Zabor40&show_icons=true&hide_border=true" />
+</details>
 
 
 
@@ -25,7 +29,7 @@ zabor#6876</li>
 <img src="https://raw.githubusercontent.com/meon2325/meon2325/main/rgb.gif" width="100%">
      
      
- <img algin="left" alt="Zabor's GithubStats" src="https://github-readme-stats-ruddy-phi.vercel.app/api?username=Zabor40&show_icons=true&hide_border=true" />
+ 
  
 
 
