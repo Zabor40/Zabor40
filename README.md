@@ -20,7 +20,6 @@ zabor#6876</li>
 
 
 
-<img algin="left" alt="Zabor's GithubStats" src="https://github-readme-stats-ruddy-phi.vercel.app/api?username=Zabor40&show_icons=true&hide_border=true" />
 
 
 
