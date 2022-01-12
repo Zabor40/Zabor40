@@ -1,6 +1,7 @@
 ### hi i am zabor </a>
-![He/Him/His](https://img.shields.io/badge/-%F0%9F%A7%91%20He/Him/His-2a7ecc?)
 
+##About me 
+C# Developer
 
 
 <img src="https://raw.githubusercontent.com/meon2325/meon2325/main/rgb.gif" width="100%">
@@ -11,8 +12,7 @@ e3215#7508</li>
 
 <img src="https://raw.githubusercontent.com/meon2325/meon2325/main/rgb.gif" width="100%">
 <details>
- <summary>Languages i work with</summary>
-Currently only C#
+
 </details>
 
 
