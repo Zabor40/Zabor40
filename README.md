@@ -1,4 +1,5 @@
-<img src="https://cdn.discordapp.com/attachments/886672956116308080/930885533599690782/Bez_nazwy-1.png" width="25%">
+<img src="https://raw.githubusercontent.com/meon2325/meon2325/main/rgb.gif" width="100%">
+<img src="https://cdn.discordapp.com/attachments/886672956116308080/930885533599690782/Bez_nazwy-1.png" width="40%>
 
 ### Hi i am Zabor
 
@@ -13,9 +14,7 @@ C# Developer
 e3215#7508</li>
 
 <img src="https://raw.githubusercontent.com/meon2325/meon2325/main/rgb.gif" width="100%">
-<details>
 
-</details>
 
 
 
