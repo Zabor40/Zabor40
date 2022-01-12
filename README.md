@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/886672956116308080/930885533599690782/Bez_nazwy-1.png" width="25%">
 
-###Hi i am Zabor
+### Hi i am Zabor
 
 ## About me 
 C# Developer
