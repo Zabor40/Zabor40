@@ -7,7 +7,7 @@
 
 ![Discord](https://img.shields.io/badge/-DM%20me%20on%20discord!-0d0d0d?&logo=discord)
 
-malarz1999#4598</li>
+e3215#7508</li>
 
 <img src="https://raw.githubusercontent.com/meon2325/meon2325/main/rgb.gif" width="100%">
 <details>
