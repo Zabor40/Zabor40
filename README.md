@@ -4,6 +4,7 @@
 #### Information
 
 ![He/Him](https://img.shields.io/badge/-%F0%9F%A7%91%20He/Him-2a7ecc?)
+Graphic designer
 
 <img src="https://raw.githubusercontent.com/Rawiros/Rawiros/main/line.png" width="100%">
 
